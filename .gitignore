@@ -1,0 +1,9 @@
+# dotnet
+bin/
+obj/
+.vscode/
+
+# spring
+.gradle/
+.mvn/
+build/
