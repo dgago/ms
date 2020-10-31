@@ -19,4 +19,4 @@
     $ dotnet ef database update
     ```
 
-El penúltimo paso no anda en Mac.
+El penúltimo paso no anda en Mac ni en Windows.
